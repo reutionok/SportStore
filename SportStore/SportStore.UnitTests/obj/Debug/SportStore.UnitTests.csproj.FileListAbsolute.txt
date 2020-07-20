@@ -53,3 +53,6 @@ C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\obj\Debug\S
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.dll
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\obj\Debug\SportStore.UnitTests.pdb
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\bin\Debug\WebActivatorEx.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\bin\Debug\SportStore.Domain.dll.config
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.UnitTests\bin\Debug\EntityFramework.xml

@@ -24,3 +24,8 @@ C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\obj\Debug\Spor
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.csproj.CopyComplete
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.dll
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\obj\Debug\SportStore.Domain.pdb
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\bin\Debug\SportStore.Domain.dll.config
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.Domain\bin\Debug\EntityFramework.SqlServer.xml

@@ -92,3 +92,8 @@ C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\obj\Debug\Sport
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.dll
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\obj\Debug\SportStore.WebUI.pdb
 C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\bin\SportStore.Domain.dll.config
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.xml
+C:\Users\Sunny\source\repos\Projects\SportStore\SportStore.WebUI\bin\EntityFramework.SqlServer.xml
