@@ -4951,7 +4951,7 @@ a.label:focus {
   background-color: #5e5e5e;
 }
 .label-primary {
-    background-color: rgba(55, 143, 53, 0.86);
+    background-color:rgba(128, 182, 10, 0.84)
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
