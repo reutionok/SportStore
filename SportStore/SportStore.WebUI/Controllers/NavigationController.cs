@@ -14,6 +14,7 @@ namespace SportStore.WebUI.Controllers
         {
             repository = repo;
         }
+
         public PartialViewResult Menu(string category = null)
         {
             ViewBag.SelectedCategory = category;
@@ -22,7 +23,21 @@ namespace SportStore.WebUI.Controllers
                 .Select(product => product.Category)
                 .Distinct()
                 .OrderBy(x => x);
-            return PartialView(categories);
+
+            return PartialView("FlexMenu", categories);
         }
+
+        //public PartialViewResult Menu(string category = null, bool horizontalNav = false)
+        //{
+        //    ViewBag.SelectedCategory = category;
+
+        //    IEnumerable<string> categories = repository.Products
+        //        .Select(product => product.Category)
+        //        .Distinct()
+        //        .OrderBy(x => x);
+
+        //    string viewName = horizontalNav ? "MenuHorizontal" : "Menu";
+        //    return PartialView(viewName, categories);
+        //}
     }
 }
